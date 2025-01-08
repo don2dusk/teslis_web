@@ -1,0 +1,19 @@
+<svg width="19" height="19" viewBox="0 0 19 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_b_257_37695)">
+<rect width="19" height="19" rx="3.16667" fill="#FEFDFF"/>
+<path d="M5.48077 6.25977C5.28696 6.25977 5.10108 6.33668 4.96404 6.47358C4.82699 6.61048 4.75 6.79616 4.75 6.98977V13.5598C4.75 13.7534 4.82699 13.9391 4.96404 14.076C5.10108 14.2129 5.28696 14.2898 5.48077 14.2898H13.5192C13.713 14.2898 13.8989 14.2129 14.036 14.076C14.173 13.9391 14.25 13.7534 14.25 13.5598V6.98977C14.25 6.79616 14.173 6.61048 14.036 6.47358C13.8989 6.33668 13.713 6.25977 13.5192 6.25977H12.0577" stroke="#000001" stroke-width="0.730769" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M6.94531 4.7998V7.7198" stroke="#000001" stroke-width="0.730769" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M12.0547 4.7998V7.7198" stroke="#000001" stroke-width="0.730769" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M6.94531 6.25977H10.5992" stroke="#000001" stroke-width="0.730769" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M10.7946 8.98324L8.21094 11.5669" stroke="#000001" stroke-width="0.730769" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M8.21094 8.98486L10.7919 11.5658" stroke="#000001" stroke-width="0.730769" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<filter id="filter0_b_257_37695" x="-14.2" y="-14.2" width="47.4" height="47.4" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImageFix" stdDeviation="7.1"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_257_37695"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_257_37695" result="shape"/>
+</filter>
+</defs>
+</svg>
