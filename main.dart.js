@@ -91348,7 +91348,7 @@ A.amX.prototype={
 $2(a,b){var s,r,q,p=null,o=b.b,n=b.d
 if(document.fullscreenElement==null)s=window.innerHeight===n&&window.innerWidth===o
 else s=!0
-if(o<1280||n<800||!s)return A.ie(p,A.av(p,B.FL,B.k,A.bg(204,B.q.I()>>>16&255,B.q.I()>>>8&255,B.q.I()&255),p,p,p,p,p,p,p,p,p,p))
+if(o<1280||n<700||!s)return A.ie(p,A.av(p,B.FL,B.k,A.bg(204,B.q.I()>>>16&255,B.q.I()>>>8&255,B.q.I()&255),p,p,p,p,p,p,p,p,p,p))
 r=this.a
 q=r.c
 if(q!=null&&r.d!=null){r=r.d
