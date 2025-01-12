@@ -91345,16 +91345,15 @@ L(a){return new A.Cu(new A.SO(this.c,this.d,null),"Teslis IDM",!1,null)}}
 A.SO.prototype={
 L(a){return new A.ly(new A.amX(this),null)}}
 A.amX.prototype={
-$2(a,b){var s,r,q,p=null,o=b.b,n=b.d
-if(document.fullscreenElement==null)s=window.innerHeight===n&&window.innerWidth===o
-else s=!0
-if(o<1280||n<700||!s)return A.ie(p,A.av(p,B.FL,B.k,A.bg(204,B.q.I()>>>16&255,B.q.I()>>>8&255,B.q.I()&255),p,p,p,p,p,p,p,p,p,p))
-r=this.a
-q=r.c
-if(q!=null&&r.d!=null){r=r.d
-if(r==="TESLIS_ADMIN")return B.oE
-else if(r==="TESLIS_STAFF")return new A.oB(A.ag(["role",r,"token",q],t.N,t.z),p)
-else if(r==="AGENCY_STAFF")return B.oD}return B.id},
+$2(a,b){var s,r,q=null,p=b.d
+if(document.fullscreenElement==null)if(window.innerHeight===p)window.innerWidth
+if(b.b<1280||p<800)return A.ie(q,A.av(q,B.FL,B.k,A.bg(204,B.q.I()>>>16&255,B.q.I()>>>8&255,B.q.I()&255),q,q,q,q,q,q,q,q,q,q))
+s=this.a
+r=s.c
+if(r!=null&&s.d!=null){s=s.d
+if(s==="TESLIS_ADMIN")return B.oE
+else if(s==="TESLIS_STAFF")return new A.oB(A.ag(["role",s,"token",r],t.N,t.z),q)
+else if(s==="AGENCY_STAFF")return B.oD}return B.id},
 $S:557}
 A.rG.prototype={
 a3(){return new A.Yu()}}
